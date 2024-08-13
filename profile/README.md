@@ -1,5 +1,5 @@
 ##  PKU-Baichuan-MLSystemLab 
-🔥 2024/08/02  [🌴 CFBench](https://github.com/PKU-Baichuan-MLSystemLab/CFBench) [🌲 arXiv](https://arxiv.org/abs/2408.01122)  
+🔥 2024/08/02  [🌴Repo:CFBench](https://github.com/PKU-Baichuan-MLSystemLab/CFBench) [🌲arXiv:https://arxiv.org/abs/2408.01122](https://arxiv.org/abs/2408.01122)  
 🔥 2024/08/07  [PAS: Data-Efficient Plug-and-Play Prompt Augmentation System]
 
 <!--
