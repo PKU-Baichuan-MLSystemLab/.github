@@ -15,7 +15,7 @@ Our goal is to develop effective and efficient data preparation systems and algo
 | Gemini 1.5 Pro         | 72.0%      | 58.3         | -               |
 | Llama3-PBM-Nova-70B    | 74.5%      | 58.1         | 61.23%          |
 | Llama-3.1-70B-Instruct | 55.7%      | -            | 38.1%           |
-| Llama-3-70B-Instruct   | 46.6       | 55.9         | 34.4%           |
+| Llama-3-70B-Instruct   | 46.6%      | 55.9         | 34.4%           |
 
 🔥 2024/08/07  PAS: Data-Efficient Plug-and-Play Prompt Augmentation System  [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/PAS) [🌲 arXiv](https://arxiv.org/abs/2407.06027)  
 🔥 2024/08/02  CFBench: A Comprehensive Constraints-Following Benchmark for LLMs [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/CFBench) [🌲 arXiv](https://arxiv.org/abs/2408.01122)  
