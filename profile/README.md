@@ -1,5 +1,5 @@
 ##  PKU-Baichuan-MLSystemLab 
-Welcome to the GitHub repository of the Peking University ML System Lab - Baichuan Intelligence Joint Laboratory. 
+Welcome to the GitHub repository of the Peking University ML System Lab - Baichuan Inc. Joint Laboratory. 
 
 Our research primarily focuses on Data-Centric Machine Learning (DCML), Large Language Models (LLMs), and Machine Learning Systems (ML Systems).
 
