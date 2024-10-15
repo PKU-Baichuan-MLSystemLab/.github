@@ -6,6 +6,7 @@ We are dedicated to advancing research in Data-Centric Machine Learning (DCML), 
 Our goal is to develop effective and efficient data preparation systems and algorithms that support and enhance the performance of machine learning models.
 
 ## Newly Released Papers and Code
+🔥 2024/10/15  FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/FB-Bench) [🌲 arXiv](https://arxiv.org/abs/2410.09412)   
 🔥 2024/09/02  DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning [🌲 arXiv](https://arxiv.org/abs/2409.00997v1)   
 🔥 2024/08/27  BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline [🌴 Repo](https://baichuanseed.github.io/) [🌲 arXiv](https://arxiv.org/abs/2408.15079)   
 🔥 2024/08/21  MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/MathScape) [🌲 arXiv](https://arxiv.org/abs/2408.07543)     
