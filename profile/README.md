@@ -7,8 +7,8 @@ Our goal is to develop effective and efficient data preparation systems and algo
 
 ## Newly Released Papers and Code
 🔥 2024/10/15  FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/FB-Bench) [🌲 arXiv](https://arxiv.org/abs/2410.09412)   
-🔥 2024/09/29  BEATS: OPTIMIZING LLM MATHEMATICAL CAPA- BILITIES WITH BACKVERIFY AND ADAPTIVE DISAM- BIGUATE BASED EFFICIENT TREE SEARCH [🌲 arXiv](https://arxiv.org/pdf/2409.17972)   
-🔥 2024/09/26  Data Proportion Detection for Optimized Data Management for Large Language Models [Vision] [🌲 arXiv](https://arxiv.org/pdf/2409.17527)   
+🔥 2024/09/29  BEATS: OPTIMIZING LLM MATHEMATICAL CAPA-BILITIES WITH BACKVERIFY AND ADAPTIVE DISAM-BIGUATE BASED EFFICIENT TREE SEARCH [🌲 arXiv](https://arxiv.org/abs/2409.17972)   
+🔥 2024/09/26  Data Proportion Detection for Optimized Data Management for Large Language Models [Vision] [🌲 arXiv](https://arxiv.org/abs/2409.17527)   
 🔥 2024/09/02  DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning [🌲 arXiv](https://arxiv.org/abs/2409.00997v1)   
 🔥 2024/08/27  BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline [🌴 Repo](https://baichuanseed.github.io/) [🌲 arXiv](https://arxiv.org/abs/2408.15079)   
 🔥 2024/08/21  MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark [🌴 Repo](https://github.com/PKU-Baichuan-MLSystemLab/MathScape) [🌲 arXiv](https://arxiv.org/abs/2408.07543)     
